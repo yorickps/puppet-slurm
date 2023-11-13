@@ -87,6 +87,12 @@
       ]
     },
     {
+      "operatingsystem": "AlmaLinux",
+      "operatingsystemrelease": [
+        "8"
+      ]
+    },
+    {
       "operatingsystem": "Debian",
       "operatingsystemrelease": [
         "11"
